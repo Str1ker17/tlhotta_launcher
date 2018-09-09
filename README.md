@@ -1,5 +1,7 @@
 # TLHOTTA (The Last Hope of the Third Age) Launcher
 
+![Screenshot](tlhotta_launcher_screenshot.jpg)
+
 This is a source code of launcher program, written in Delphi.
 
 Binaries of AlphaControls 2015 v10.14 (27.07.2015) built in Delphi XE included.
